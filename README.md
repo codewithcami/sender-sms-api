@@ -1,13 +1,13 @@
 # sender-sms-api
 Server Side: Criando uma API de envio de SMS do Zero ao Deploy com Spring Boot 3
 
-### Objetivos do Projeto
+## Objetivos do Projeto
 
 - Este projeto foi pensado para desenvolvedores iniciantes na carreira, com conhecimento em Programação Orientada a Objetos (POO) e Java, que desejam aprender a construir e consumir APIs utilizando Spring Boot Web e Java. 
 - O projeto abordará o desenvolvimento de uma API para envio de SMS, utilizando o Twilio como serviço de comunicação.
 - Todo esse desenvolvimento será baseado em boas práticas de código, incluindo padrões de projeto e documentação, garantindo a qualidade e a manutenibilidade do código produzido.
 
-### Pré-Requisitos
+## Pré-Requisitos
 
 - Conhecimento acerca de POO com Java
 - Editor de Código para desenvolvimento Java (Vs Code)
